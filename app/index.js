@@ -40,3 +40,5 @@ ReactDOM.render(
   <Avatar user={USER_DATA} />,
   document.getElementById('app')
 );
+
+saf
