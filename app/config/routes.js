@@ -19,10 +19,3 @@ var routes = (
 );
 
 module.exports = routes;
-
-
-
-// <Route path='playerOne' header='Player One' component={PromptContainer} />
-// <Route path='PlayerTwo' header='PlayerTwo/:playerOne' component={PromptContainer} />
-// <Route path='battle' component={ConfirmBattleContainer} />
-// <Route path='results' component={ResultsContainer} />
