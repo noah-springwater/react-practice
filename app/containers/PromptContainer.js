@@ -3,9 +3,6 @@ var PropTypes = React.PropTypes;
 var Prompt = require('../components/Prompt');
 
 var PromptContainer = React.createClass({
-  propTypes: {
-    header: PropTypes.string.isRequired
-  },
   contextTypes: {
     router: React.PropTypes.object.isRequired
   },

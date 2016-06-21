@@ -1,4 +1,5 @@
 var React = require('react');
+
 var Main = React.createClass({
   render: function () {
     return (
